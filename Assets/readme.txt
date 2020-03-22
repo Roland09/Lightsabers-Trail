@@ -16,10 +16,6 @@ Installed Packages:
 
 Used Assets
 ---------------------------------
-
-* Post Processing Stack
-https://www.assetstore.unity3d.com/en/#!/content/83912
-
 * Pocket RPG Weapon Trails
 https://www.assetstore.unity3d.com/en/#!/content/2458
 
